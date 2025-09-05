@@ -2,7 +2,7 @@
 
 # Python 3.13 Study Notes (KO)
 
-이 저장소는 **Python 3.13 공식 문서(한국어판)**를 공부하면서  
+이 저장소는 **Python 3.13 공식 문서(한국어판)를 공부하면서  
 중요한 개념, 예제 코드, 팁 등을 직접 정리해 나가는 공간입니다.  
 
 - 공식 문서: https://docs.python.org/ko/3.13/contents.html
